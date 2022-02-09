@@ -1,0 +1,7 @@
+tiff_dir: data/DDR_titration_series/tiffs
+mask_dir: data/DDR_titration_series/DeepCell/masks
+channel_names: data/DDR_titration_series/DeepCell/channel_names.txt
+channel_info: data/DDR_titration_series/DeepCell/channel_data.yml
+microns_per_pixel: 1
+arcsinh: False
+cofactor: 5
